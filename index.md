@@ -368,6 +368,6 @@ if(globalVariables.google_analytics){
     ga('create', globalVariables.google_analytics, 'auto');
     ga('send', 'pageview');
 }
-  
+  </script></body>
   </body>
 </html>
