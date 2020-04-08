@@ -1,10 +1,7 @@
- <link rel="icon" href="https://cdn.jsdelivr.net/gh/iDevMore/BuildLPs/Fortnite/1/favicon.ico" type="image/x-icon"/>
-    <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/iDevMore/BuildLPs/Fortnite/1/favicon.ico" type="image/x-icon"/>
+
     
-    <meta name="description" content="Fortnite V-Bucks generator is a new tool that allows you to get free V-Bucks in Fortnite.">
-    <meta name="keywords" content="Fortnite Free V-Bucks, V-Bucks Generator, Get V-Bucks Free, Free Fortnite, Fortnite Cheat, Fortnite Hack, VBucks Hack">
-    
-    <style>
+   
+     <style>
     
     body {
         overflow: hidden;
@@ -182,4 +179,5 @@ var CPABuildOffersComplete = function(completions){
     }
     
     
-}</script></body>
+}</script>
+</body>
